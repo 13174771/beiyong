@@ -1,6 +1,7 @@
 {
     "wallpaper": "https://www.dmoe.cc/random.php",
-    "spider": "https://gitcode.net/2304_76556805/dr_py/-/raw/master/js/custom_spider.jar",
+    //"spider": "https://gitcode.net/2304_76556805/dr_py/-/raw/master/js/custom_spider.jar",
+    "spider": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/custom_spider.jar",
     "lives": [
         {
             "group": "自定义",
@@ -440,6 +441,20 @@
             "type": 3,
             "api": "https://gitcode.net/2304_76556805/dr_py/-/raw/master/libs/drpy2.min.js",
             "ext": "https://gitcode.net/2304_76556805/dr_py/-/raw/master/js/AGE动漫.js"
+        },
+        {
+            "key": "drpy_js_NT动漫",
+            "name": "NT动漫[DRPY]",
+            "type": 3,
+            "api": "https://gitcode.net/2304_76556805/dr_py/-/raw/master/libs/drpy2.min.js",
+            "ext": "https://gitcode.net/2304_76556805/dr_py/-/raw/master/js/NT动漫.js"
+        },
+        {
+            "key": "drpy_js_萌番",
+            "name": "萌番[DRPY]",
+            "type": 3,
+            "api": "https://gitcode.net/2304_76556805/dr_py/-/raw/master/libs/drpy2.min.js",
+            "ext": "https://gitcode.net/2304_76556805/dr_py/-/raw/master/js/萌番.js"
         },
         {
             "key": "drpy_js_异世界动漫",
@@ -2025,6 +2040,13 @@
             "ext": "https://gitcode.net/2304_76556805/dr_py/-/raw/master/js/zxzjmtv.js"
         },
         {
+            "key": "drpy_js_无名小站",
+            "name": "无名小站[DRPY]",
+            "type": 3,
+            "api": "https://gitcode.net/2304_76556805/dr_py/-/raw/master/libs/drpy2.min.js",
+            "ext": "https://gitcode.net/2304_76556805/dr_py/-/raw/master/js/无名小站.js"
+        },
+        {
             "key": "drpy_js_唐人街影视[飞]",
             "name": "唐人街影视[飞][DRPY]",
             "type": 3,
@@ -2485,7 +2507,7 @@
         },
         {
             "key": "py_voflix",
-            "name": "py_剧迷",
+            "name": "py_voflix",
             "type": 3,
             "api": "py_voflix",
             "searchable": 1,
@@ -2604,7 +2626,7 @@
         }
     ],
     "parses": [
-        {
+        /*{
             "name": "解析聚合",
             "type": 3,
             "url": "Demo"
@@ -2618,7 +2640,7 @@
             "name": "Json轮询",
             "type": 2,
             "url": "Sequence"
-        },
+        },*/
         {
             "name": "0-采妮丝",
             "type": 0,
@@ -2636,7 +2658,7 @@
         },
         {
             "name": "3-唐三",
-            "type": 1,
+            "type": 0,
             "url": "http://15.165.180.3:57255/api.php?url=",
             "ext": {
                 "flag": [
