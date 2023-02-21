@@ -112,11 +112,11 @@
             "api": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/百忙无果.js"
         },
-    {"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
-    {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
-    {"key":"Zhaozy","name":"资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
-    {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
-    {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
+    {"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
+    {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
+    {"key":"Zhaozy","name":"资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
+    {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
+    {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
     {"key":"Ddys","name":"低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
     {"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
     {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
@@ -353,6 +353,20 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/哔哩直播.js"
+        },
+        {
+            "key": "drpy_js_酷6网",
+            "name": "酷6网[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/酷6网.js"
+        },
+        {
+            "key": "drpy_js_网易公版影像",
+            "name": "网易公版影像[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/网易公版影像.js"
         },
 		{
 			"key": "1080资源库",
@@ -2047,6 +2061,13 @@
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/粤爱看.js"
         },
         {
+            "key": "drpy_js_91free",
+            "name": "91free[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/91free.js"
+        },
+        {
             "key": "drpy_js_唐人街影视[飞]",
             "name": "唐人街影视[飞][DRPY]",
             "type": 3,
@@ -2080,6 +2101,14 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/555影视[飞].js"
+        }
+        {
+            "key": "drpy_js_A8音乐",
+            "name": "音乐|A8音乐[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/A8音乐.js",
+            "playerType": "2"
         },
         {
             "key": "drpy_js_DJ音乐",
