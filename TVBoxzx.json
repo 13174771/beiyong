@@ -68,7 +68,7 @@
             "name": "正版|哔哩影视",
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bobocg/beiyong/main/哔哩影视.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bobocg/beiyong/raw/main/哔哩影视.js"
         },
         {
             "key": "drpy_js_360影视",
@@ -2087,7 +2087,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/555影视[飞].js"
-        }
+        },
         {
             "key": "drpy_js_A8音乐",
             "name": "音乐|A8音乐[DRPY]",
