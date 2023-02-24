@@ -125,7 +125,6 @@
     {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392",
   "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
     {"key":"Kunyu77","name":"七七","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
-    {"key":"Hei19","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
     {"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
     {"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b","jar":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
     {"key":"Cokemv","name":"可乐","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70","jar":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
@@ -385,6 +384,13 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/怡萱动漫.js"
+        },
+        {
+            "key": "drpy_js_曲奇动漫",
+            "name": "曲奇动漫[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/曲奇动漫.js"
         },
         {
             "key": "drpy_js_动漫岛",
@@ -2052,6 +2058,20 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/91free.js"
+        },
+        {
+            "key": "drpy_js_六度TV",
+            "name": "六度TV[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/六度TV.js"
+        },
+        {
+            "key": "drpy_js_去看吧",
+            "name": "去看吧[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/去看吧.js"
         },
         {
             "key": "drpy_js_唐人街影视[飞]",
