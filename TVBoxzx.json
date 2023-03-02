@@ -18,7 +18,7 @@
         }
     ],
     "sites": [
-    /*{
+    {
 	    "key":"Alist",
 	    "name":"Alist",
 	    "type":3,
@@ -28,14 +28,14 @@
 	    "filterable":0,
 	    "ext":"http://101.34.67.237/txt/json/alist.json",
 	    "jar":"http://101.34.67.237/files/custom_spider_tang.jar"
-	},*/
-	  {
+	},
+	  /*{
 	    "key":"drpy_js_Alist",
 	    "name":"DR| Alist[js]",
 	    "type":3,
 	    "api":"https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/alist.min.js",
 	    "ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/alist.json"
-	  },
+	  },*/
         {
       "key": "AList",
       "name": "FM|AList",
@@ -44,7 +44,7 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Alist.json",
-      "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/be7ef84e4ea9f97a457d696ffaeddb9407c3e22a/jar/custom_spider.jar"
+      "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
     },
         {
             "key": "drpy_js_豆瓣",
