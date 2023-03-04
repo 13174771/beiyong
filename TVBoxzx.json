@@ -25,16 +25,7 @@
 	    "api":"https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/libs/alist.min.js",
 	    "ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/alist.json"
 	  },*/
-        {
-      "key": "AList",
-      "name": "FM|AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Alist.json",
-      "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
-    },
+        
     /*{
            "key":"SP360",
            "name":"官源|SP360",
@@ -101,6 +92,16 @@
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/百忙无果.js"
         },
+        {
+      "key": "AList",
+      "name": "FM|AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Alist.json",
+      "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+    },
     {"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
     {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt","jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
     {"key":"Zhaozy","name":"资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt","jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
