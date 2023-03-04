@@ -25,6 +25,10 @@
       "server": "http://182.61.20.85:5244"
     },
     {
+      "name": "姿势",
+      "server": "https://cloud.zsxwz.com"
+    },
+    {
       "name": "xlib",
       "server": "https://xlib.in"
     },
