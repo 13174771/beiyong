@@ -2,7 +2,14 @@
     "wallpaper": "https://www.dmoe.cc/random.php",
     //"spider": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/custom_spider.jar",
     "spider": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/custom_spider.jar",
-    "lives": [
+    "lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }]
+    /*"lives": [
         {
             "group": "自定义",
             "channels": [
@@ -16,7 +23,7 @@
                 }
             ]
         }
-    ],
+    ]*/,
     "sites": [
 	  /*{
 	    "key":"drpy_js_Alist",
@@ -102,11 +109,11 @@
       "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Alist.json",
       "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
     },
-    {      "key": "紙條",      "name": "紙條",      "type": 3,      "api": "csp_Paper",      "searchable": 1,      "filterable": 1,      "changeable": 0,      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
-    {      "key": "易搜",      "name": "易搜",      "type": 3,      "api": "csp_YiSo",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
-    {      "key": "盤搜",      "name": "盤搜",      "type": 3,      "api": "csp_PanSou",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
-    {      "key": "UP雲搜",      "name": "UP雲搜",      "type": 3,      "api": "csp_UpYun",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
-    {      "key": "找資源",      "name": "找資源",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
+    {      "key": "紙條",      "name": "紙條",      "type": 3,      "api": "csp_Paper",      "searchable": 1,      "filterable": 1,      "changeable": 0,      "ext": "http://ali.饭太硬.ml/alitoken",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
+    {      "key": "易搜",      "name": "易搜",      "type": 3,      "api": "csp_YiSo",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "http://ali.饭太硬.ml/alitoken",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
+    {      "key": "盤搜",      "name": "盤搜",      "type": 3,      "api": "csp_PanSou",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "http://ali.饭太硬.ml/alitoken",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
+    {      "key": "UP雲搜",      "name": "UP雲搜",      "type": 3,      "api": "csp_UpYun",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "http://ali.饭太硬.ml/alitoken",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
+    {      "key": "找資源",      "name": "找資源",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
     /*{"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt","jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Tangs.jar"},
     {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt","jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
     {"key":"Zhaozy","name":"资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt","jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
@@ -455,6 +462,13 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/萌番.js"
+        },
+        {
+            "key": "drpy_js_omofun动漫",
+            "name": "omofun动漫[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/omofun动漫.js"
         },
         {
             "key": "drpy_js_异世界动漫",
@@ -2303,6 +2317,13 @@
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/小品网.js"
         },
         {
+            "key": "drpy_js_酷狗MV",
+            "name": "酷狗MV[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/酷狗MV.js"
+        },
+        {
             "key": "drpy_js_酷奇MV",
             "name": "MV|酷奇MV[DRPY]",
             "type": 3,
@@ -2762,6 +2783,11 @@
             "type": 2,
             "url": "Sequence"
         },*/
+        {
+            "name": "肥猫",
+            "type": 0,
+            "url": "http://i.xn--z7x900a.love:63/Art2/?url="
+        },
         {
             "name": "0-采妮丝",
             "type": 0,
