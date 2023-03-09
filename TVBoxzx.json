@@ -348,6 +348,13 @@
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/酷6网.js"
         },
         {
+            "key": "drpy_js_开眼视频",
+            "name": "开眼视频[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/开眼视频.js"
+        },
+        {
             "key": "drpy_js_网易公版影像",
             "name": "网易公版影像[DRPY]",
             "type": 3,
@@ -2322,6 +2329,13 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/酷狗MV.js"
+        },
+        {
+            "key": "drpy_js_MV263",
+            "name": "MV263[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py/raw/master/js/MV263.js"
         },
         {
             "key": "drpy_js_酷奇MV",
