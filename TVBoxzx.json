@@ -2543,7 +2543,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./dr_py/py/py_bilibili3.py"
+            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilibili3.py"
         },
         {
             "key": "py_bilibili",
