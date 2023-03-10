@@ -2534,7 +2534,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./dr_py/py/py_alist.py"
-        },
+        },*/
         {
             "key": "py_bilibili3",
             "name": "py_bilibili(dm)",
@@ -2544,7 +2544,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./dr_py/py/py_bilibili3.py"
-        },*/
+        },
         {
             "key": "py_bilibili",
             "name": "py_bilibili(Pyramid)",
@@ -2556,16 +2556,6 @@
             "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilibili.py"
         },
         {
-            "key": "py_bilimy",
-            "name": "py_bilimy(Pyramid)",
-            "type": 3,
-            "api": "py_bilimy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilimy.py"
-        },
-        {
             "key": "py_bilimd",
             "name": "py_bilimd(Pyramid)",
             "type": 3,
@@ -2574,26 +2564,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilimd.py"
-        },
-        {
-            "key": "py_biliys",
-            "name": "py_biliys(Pyramid)",
-            "type": 3,
-            "api": "py_biliys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_biliys.py"
-        },
-        {
-            "key": "py_bilizb",
-            "name": "py_bilizb(Pyramid)",
-            "type": 3,
-            "api": "py_bilizb",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilizb.py"
         },
         {
             "key": "py_bilivd",
