@@ -170,7 +170,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/HG影视.json"
+            "ext": "https://jihulab.com/gouhao/Tvbox_zy/-/raw/master/XYQTVBox/XYQHiker/HG影视.json"
         },
         {
             "key": "csp_XYQHiker_咕咕番",
@@ -180,7 +180,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/咕咕番.json"
+            "ext": "https://jihulab.com/gouhao/Tvbox_zy/-/raw/master/XYQTVBox/XYQHiker/咕咕番.json"
         },
         {
             "key": "csp_XYQHiker_可达鸭",
@@ -190,7 +190,37 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/可达鸭.json"
+            "ext": "https://jihulab.com/gouhao/Tvbox_zy/-/raw/master/XYQTVBox/XYQHiker/可达鸭.json"
+        },
+        {
+            "key": "csp_XYQHiker_橘子动漫",
+            "name": "橘子动漫(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/gouhao/Tvbox_zy/-/raw/master/XYQTVBox/XYQHiker/橘子动漫.json"
+        },
+        {
+            "key": "csp_XYQHiker_蓝猫动漫",
+            "name": "蓝猫动漫(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/gouhao/Tvbox_zy/-/raw/master/XYQTVBox/XYQHiker/蓝猫动漫.json"
+        },
+        {
+            "key": "csp_XYQHiker_趣动漫",
+            "name": "趣动漫(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/gouhao/Tvbox_zy/-/raw/master/XYQTVBox/XYQHiker/趣动漫.json"
         },
         {
             "key": "csp_XYQHiker_Moefun",
