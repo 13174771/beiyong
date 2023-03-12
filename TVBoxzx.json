@@ -146,21 +146,31 @@
             "key": "章鱼影视",
             "name": "章鱼影视(V1)",
             "type": 3,
-            "api": "csp_AppYs",
+            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://lb520.fun/icciu_api.php/v1.vod"
         },
         {
-            "key": "阿里影视",
-            "name": "阿里影视(V1)",
+            "key": "萌蛋影视",
+            "name": "萌蛋影视(V1)",
             "type": 3,
-            "api": "csp_AppYs",
+            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://aliys.cn:90/api.php/v1.vod"
+            "ext": "http://app.mengdandan.com/xgapp.php/v1/"
+        },
+        {
+            "key": "🐰窝影视",
+            "name": "🐰窝影视(V1)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"
         },
         {
             "key": "csp_XYQHiker_HG影视",
@@ -343,14 +353,14 @@
             "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/抓饭直播.json"
         },
         {
-            "key": "csp_XYQHiker_无插件直播",
-            "name": "🏀无插件直播(XYQH)",
+            "key": "csp_XYQHiker_310直播",
+            "name": "🏀310直播(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/无插件直播.json"
+            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/310直播.json"
         },
         {
             "key": "drpy_js_斗鱼直播",
@@ -406,6 +416,7 @@
 			"name": "影视|1080库",
 			"type": 1,
 			"api": "https://api.1080zyku.com/inc/api_mac10.php",
+			"playUrl": "https://vip.zykbf.com/?url=",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -414,6 +425,8 @@
 			"name": "影视|量子影视",
 			"type": 1,
 			"api": "http://cj.lziapi.com/api.php/provide/vod/",
+			//"playUrl": "https://lziplayer.com/?url=",
+			"playUrl": "https://player.snapload.one/JDplayer/?url=",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -422,6 +435,8 @@
 			"name": "影视|非凡影视",
 			"type": 1,
 			"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+			//"playUrl": "https://ffzyplayer.com/?url=",
+			"playUrl": "https://player.snapload.one/JDplayer/?url=",
 			"searchable": 1,
 			"quickSearch": 1
 		},
