@@ -104,8 +104,7 @@
         "name": "🎦直播转换",
         "type": 3
         ,"api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/直播转点播.js",
-        "ext": "南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#俊于$http://home.jundie.top:81/Cat/tv/live.txt",
-        "playerType": "2"
+        "ext": "南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#俊于$http://home.jundie.top:81/Cat/tv/live.txt"
         },
         {
       "key": "AList",
