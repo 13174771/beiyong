@@ -100,6 +100,14 @@
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"
         },
         {
+        "key": "直播转点播",
+        "name": "🎦直播转换",
+        "type": 3
+        ,"api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/直播转点播.js",
+        "ext": "南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#俊于$http://home.jundie.top:81/Cat/tv/live.txt",
+        "playerType": "2"
+        },
+        {
       "key": "AList",
       "name": "FM|AList",
       "type": 3,
@@ -123,7 +131,7 @@
 {"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com","jar":"./Yoursmile.jar"},
 {"key":"小苹果","name":"苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","jar":"./Yoursmile.jar"},
+{"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","jar":"./Yoursmile.jar"},
 {"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
 {"key":"csp_fantuan","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com","jar":"./Yoursmile.jar"},
 {"key":"csp_555","name":"️555","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com","jar":"./Yoursmile.jar"},
