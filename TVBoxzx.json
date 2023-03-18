@@ -104,7 +104,7 @@
         "name": "🎦直播转换",
         "type": 3
         ,"api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/直播转点播.js",
-        "ext": "南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#俊于$http://home.jundie.top:81/Cat/tv/live.txt"
+        "ext": "南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#俊于$http://home.jundie.top:81/Cat/tv/live.txt#太阳直播$http://9xi4o.tk/sub/mytv.txt#吾爱直播$http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0#饭太硬直播$http://ftyyy.tk/live.txt"
         },
         {
       "key": "AList",
@@ -589,6 +589,13 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/NyaFun.js"
+        },
+        {
+            "key": "drpy_js_二次萌影视",
+            "name": "二次萌影视[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/二次萌影视.js"
         },
         {
             "key": "drpy_js_异世界动漫",
@@ -2307,6 +2314,76 @@
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/影视之家.js"
         },
         {
+            "key": "drpy_js_网飞.TV",
+            "name": "网飞.TV[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/网飞.TV.js"
+        },
+        {
+            "key": "drpy_js_星空影视",
+            "name": "星空影视[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/星空影视.js"
+        },
+        {
+            "key": "drpy_js_人人",
+            "name": "人人[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/人人.js"
+        },
+        {
+            "key": "drpy_js_139影视",
+            "name": "139影视[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/139影视.js"
+        },
+        {
+            "key": "drpy_js_FreeOK",
+            "name": "FreeOK[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/FreeOK.js"
+        },
+        {
+            "key": "drpy_js_朴樱影视",
+            "name": "朴樱影视[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/朴樱影视.js"
+        },
+        {
+            "key": "drpy_js_UM电影",
+            "name": "UM电影[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/UM电影.js"
+        },
+        {
+            "key": "drpy_js_米爱影视",
+            "name": "米爱影视[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/米爱影视.js"
+        },
+        {
+            "key": "drpy_js_花猫TV",
+            "name": "花猫TV[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/花猫TV.js"
+        },
+        {
+            "key": "drpy_js_达达龟",
+            "name": "达达龟[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/达达龟.js"
+        },
+        {
             "key": "drpy_js_唐人街影视[飞]",
             "name": "唐人街影视[飞][DRPY]",
             "type": 3,
@@ -2354,6 +2431,14 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/DJ音乐.js",
+            "playerType": "2"
+        },
+        {
+            "key": "drpy_js_苹果DJ",
+            "name": "音乐|苹果DJ[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/苹果DJ.js",
             "playerType": "2"
         },
         {
@@ -2445,7 +2530,7 @@
         },
         {
             "key": "drpy_js_74听书",
-            "name": "74听书[DRPY]",
+            "name": "听书|74听书[DRPY]",
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/74听书.js",
