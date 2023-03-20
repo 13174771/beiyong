@@ -99,13 +99,20 @@
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"
         },
-        {
+        /*{
         "key": "直播转点播",
         "name": "🎦直播转换",
         "type": 3
         ,"api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/直播转点播.js",
         "ext": "南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#俊于$http://home.jundie.top:81/Cat/tv/live.txt#太阳直播$http://9xi4o.tk/sub/mytv.txt#吾爱直播$http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0#饭太硬直播$http://ftyyy.tk/live.txt"
-        },
+        },*/
+        {
+			"key": "js加密_仓库通用",
+			"name": "📡直播转点播",
+			"type": 3,
+			"api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/直播转点播2.js",
+			"ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/直播仓库.json"
+		},		
         {
       "key": "AList",
       "name": "FM|AList",
@@ -126,7 +133,7 @@
     {"key":"Zhaozy","name":"资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt$$$yingshi$$$abcd1234","jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
     {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt","jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
     {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt","jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
-{"key":"csp_YQKAPP","name":"一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"./Yoursmile.jar"},
+{"key":"csp_YQKAPP","name":"一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top","jar":"./Yoursmile.jar"},
 {"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com","jar":"./Yoursmile.jar"},
 {"key":"小苹果","name":"苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
@@ -134,7 +141,7 @@
 {"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
 {"key":"csp_fantuan","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com","jar":"./Yoursmile.jar"},
 {"key":"csp_555","name":"️555","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com","jar":"./Yoursmile.jar"},
-{"key":"BuLei","name":"布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.bulei.cc","jar":"./Yoursmile.jar"},
+{"key":"BuLei","name":"布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://v.bulei.cc","jar":"./Yoursmile.jar"},
 {"key":"csp_AppMr","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
 {"key":"csp_panghu","name":"胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
 {"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"./Yoursmile.jar"},
@@ -2439,6 +2446,22 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/苹果DJ.js",
+            "playerType": "2"
+        },
+        {
+            "key": "drpy_js_清风DJ",
+            "name": "音乐|清风DJ[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/清风DJ.js",
+            "playerType": "2"
+        },
+        {
+            "key": "drpy_js_JangoIndex",
+            "name": "音乐|JangoIndex[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JangoIndex.js",
             "playerType": "2"
         },
         {
