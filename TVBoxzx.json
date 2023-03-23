@@ -123,16 +123,21 @@
       "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Alist.json",
       "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
     },
-    /*{      "key": "紙條",      "name": "紙條",      "type": 3,      "api": "csp_Paper",      "searchable": 1,      "filterable": 1,      "changeable": 0,      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
-    {      "key": "易搜",      "name": "易搜",      "type": 3,      "api": "csp_YiSo",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
-    {      "key": "盤搜",      "name": "盤搜",      "type": 3,      "api": "csp_PanSou",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
-    {      "key": "UP雲搜",      "name": "UP雲搜",      "type": 3,      "api": "csp_UpYun",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
-    {      "key": "找資源",      "name": "找資源",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },*/
-    {"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt","jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
+    {      "key": "紙條",      "name": "紙條",      "type": 3,      "api": "csp_Paper",      "searchable": 1,      "filterable": 1,      "changeable": 0,      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
+    {      "key": "易搜",      "name": "易搜",      "type": 3,      "api": "csp_YiSo",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
+    {      "key": "盤搜",      "name": "盤搜",      "type": 3,      "api": "csp_PanSou",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
+    {      "key": "UP雲搜",      "name": "UP雲搜",      "type": 3,      "api": "csp_UpYun",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
+    {      "key": "找資源",      "name": "找資源",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt$$$yingshi$$$abcd1234",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
+     {"key":"Gitcafe","name":"转码|纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_Zhaozy","name":"转码|资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"&&&yingshi&&&abcd1234"},
+        {"key":"csp_AliPS","name":"转码|盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0},
+        {"key":"csp_Yisou","name":"转码|易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0},
+        {"key":"csp_Upyunso","name":"转码|UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0},
+    /*{"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt","jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
     {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt","jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
     {"key":"Zhaozy","name":"资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt$$$yingshi$$$abcd1234","jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
     {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt","jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
-    {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt","jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
+    {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt","jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},*/
 {"key":"csp_YQKAPP","name":"一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top","jar":"./Yoursmile.jar"},
 {"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com","jar":"./Yoursmile.jar"},
 {"key":"小苹果","name":"苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
@@ -2391,6 +2396,13 @@
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/达达龟.js"
         },
         {
+            "key": "drpy_js_345看片",
+            "name": "345看片[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/345看片.js"
+        },
+        {
             "key": "drpy_js_唐人街影视[飞]",
             "name": "唐人街影视[飞][DRPY]",
             "type": 3,
@@ -2525,6 +2537,14 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/幻听网听书.js",
+            "playerType": "2"
+        },
+        {
+            "key": "drpy_js_有声听书网",
+            "name": "听书|有声听书网[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/有声听书网.js",
             "playerType": "2"
         },
         {
@@ -2804,7 +2824,7 @@
             "quickSearch": 1,
             "filterable": 0,
             //"ext": "./dr_py/py/py_gitcafe.py"
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/main/plugin/py_gitcafe.py"
+            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_gitcafe.py"
         },
         {
             "key": "py_zhaozy",
@@ -2814,7 +2834,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/main/plugin/py_zhaozy.py"
+            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_zhaozy.py"
         },
         {
             "key": "py_yunso",
@@ -2824,7 +2844,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/93ab86f9d2ae1964c442c25c614623ad1e4e2fab/plugin/py_yunso.py"
+            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_yunso.py"
             //"ext": "./dr_py/py/py_yunso.py"
         },
         {
@@ -2835,7 +2855,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/main/plugin/py_yiso.py"
+            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_yiso.py"
         },
         {
             "key": "py_pansou",
@@ -2845,7 +2865,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/93ab86f9d2ae1964c442c25c614623ad1e4e2fab/plugin/py_pansou.py"
+            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_pansou.py"
             //"ext": "./dr_py/py/py_pansou.py"
         },
         {
@@ -2867,7 +2887,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/main/plugin/py_kunyu77.py"
+            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_kunyu77.py"
             //"ext": "./dr_py/py/py_kunyu77.py"
         },
         {
@@ -2890,7 +2910,7 @@
             "quickSearch": 1,
             "filterable": 0,
             //"ext": "./dr_py/py/py_huya.py"
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/24ba34cb1530124899c0d27ed9c9ec9a1005b5b4/plugin/py_huya.py"
+            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_huya.py"
         },
         {
             "key": "py_douyu",
@@ -2900,7 +2920,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/93ab86f9d2ae1964c442c25c614623ad1e4e2fab/plugin/py_douyu.py"
+            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_douyu.py"
             //"ext": "./dr_py/py/py_douyu.py"
         },
         {
@@ -2911,7 +2931,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/93ab86f9d2ae1964c442c25c614623ad1e4e2fab/plugin/py_freezb.py"
+            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_freezb.py"
         },
         {
             "key": "py_voflix",
@@ -2943,7 +2963,7 @@
             "quickSearch": 1,
             "filterable": 0,
             //"ext": "./dr_py/py/py_ikan.py"
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/23323250dbe68d5fc0338fe8ed2d4f0aa4579ab3/plugin/py_ikan.py"
+            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_ikan.py"
         },
         {
             "key": "py_genmov",
@@ -2976,7 +2996,7 @@
         "quickSearch" : 1,
         "filterable" : 1,
         //"ext" : "./dr_py/py/py_cyys.py"
-        "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/0cb51ef36dcf55e92745fdaedd9dbf1960e48782/plugin/py_cyys.py"
+        "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_cyys.py"
         },
         {
             "key": "py_3qu",
@@ -3067,7 +3087,7 @@
         {
             "name":"1-小城",
             "type": 0,
-            "url": "https://bf.xcds1.com/player/analysis.php?v="
+            "url": "https://bf.xcds1.com/?url="
         },
         {
             "name": "2-CK",
