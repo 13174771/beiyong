@@ -10,6 +10,47 @@
 	    }],
     "sites": [
         {
+            "key": "py_bilibili3",
+            "name": "py_bilibili(dm)",
+            "type": 3,
+            "api": "py_bilibili3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilibili3.py"
+        },
+        {
+            "key": "py_bilibili",
+            "name": "py_bilibili(Pyramid)",
+            "type": 3,
+            "api": "py_bilibili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilibili.py",
+            "playerType": "2"
+        },
+        {
+            "key": "py_bilimd",
+            "name": "py_bilimd(Pyramid)",
+            "type": 3,
+            "api": "py_bilimd",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilimd.py"
+        },
+        {
+            "key": "py_bilivd",
+            "name": "py_bilivd(Pyramid)",
+            "type": 3,
+            "api": "py_bilivd",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilivd.py"
+        },
+        {
             "key": "drpy_js_哔哩影视",
             "name": "正版|哔哩影视",
             "type": 3,
@@ -2147,13 +2188,6 @@
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/万博剧院.js"
         },
         {
-            "key": "drpy_js_zxzjmtv",
-            "name": "zxzjmtv[DRPY]",
-            "type": 3,
-            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
-            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/zxzjmtv.js"
-        },
-        {
             "key": "drpy_js_无名小站",
             "name": "无名小站[DRPY]",
             "type": 3,
@@ -2369,13 +2403,6 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AB影院[飞].js"
-        },
-        {
-            "key": "drpy_js_欧乐影院[飞]",
-            "name": "欧乐影院[飞][DRPY]",
-            "type": 3,
-            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
-            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/欧乐影院[飞].js"
         },
         {
             "key": "drpy_js_555影视[飞]",
@@ -2628,100 +2655,6 @@
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/310直播.js"
         },
         {
-            "key": "py_bilibili3",
-            "name": "py_bilibili(dm)",
-            "type": 3,
-            "api": "py_bilibili3",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilibili3.py"
-        },
-        {
-            "key": "py_bilibili",
-            "name": "py_bilibili(Pyramid)",
-            "type": 3,
-            "api": "py_bilibili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilibili.py",
-            "playerType": "2"
-        },
-        {
-            "key": "py_bilimd",
-            "name": "py_bilimd(Pyramid)",
-            "type": 3,
-            "api": "py_bilimd",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilimd.py"
-        },
-        {
-            "key": "py_bilivd",
-            "name": "py_bilivd(Pyramid)",
-            "type": 3,
-            "api": "py_bilivd",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilivd.py"
-        },
-        {
-            "key": "py_gitcafe",
-            "name": "py_小纸条",
-            "type": 3,
-            "api": "py_gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            //"ext": "./dr_py/py/py_gitcafe.py"
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_gitcafe.py"
-        },
-        {
-            "key": "py_zhaozy",
-            "name": "py_找资源",
-            "type": 3,
-            "api": "py_zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_zhaozy.py"
-        },
-        {
-            "key": "py_yunso",
-            "name": "py_云搜",
-            "type": 3,
-            "api": "py_yunso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_yunso.py"
-            //"ext": "./dr_py/py/py_yunso.py"
-        },
-        {
-            "key": "py_yiso",
-            "name": "py_易搜",
-            "type": 3,
-            "api": "py_yiso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_yiso.py"
-        },
-        {
-            "key": "py_pansou",
-            "name": "py_盘搜",
-            "type": 3,
-            "api": "py_pansou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_pansou.py"
-            //"ext": "./dr_py/py/py_pansou.py"
-        },
-        {
             "key" : "py_douban",
             "name" : "py_豆瓣",
             "type" : 3,
@@ -2742,17 +2675,6 @@
             "filterable": 0,
             "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_kunyu77.py"
             //"ext": "./dr_py/py/py_kunyu77.py"
-        },
-        {
-            "key" : "py_qie",
-            "name" : "py_企鹅体育",
-            "type" : 3,
-            "api" : "py_qie",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/a0bed398fe095861f2dc7f82aaad71a326a5f97a/plugin/py_qie.py"
-            //"ext" : "./dr_py/py/py_qie.py"
         },
         {
             "key": "py_huya",
@@ -2777,35 +2699,14 @@
             //"ext": "./dr_py/py/py_douyu.py"
         },
         {
-            "key": "py_freezb",
-            "name": "py_free直播",
+            "key": "py_sport",
+            "name": "py_体育直播",
             "type": 3,
-            "api": "py_freezb",
+            "api": "py_sport",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_freezb.py"
-        },
-        {
-            "key": "py_voflix",
-            "name": "py_voflix",
-            "type": 3,
-            "api": "py_voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/9546b2f5d3fa30275cb5ccd6c352bfac4d472fe5/plugin/py_voflix.py"
-        },
-        {
-            "key": "py_gimytv",
-            "name": "py_剧迷",
-            "type": 3,
-            "api": "py_gimytv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/main/plugin/py_gimytv.py"
-            //"ext": "./dr_py/py/py_gimytv.py"
+            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_sport.py"
         },
         {
             "key": "py_ikan",
@@ -2819,17 +2720,6 @@
             "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_ikan.py"
         },
         {
-            "key": "py_genmov",
-            "name": "py_爱跟剧",
-            "type": 3,
-            "api": "py_genmov",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/main/plugin/py_genmov.py"
-            //"ext": "./dr_py/py/py_genmov.py"
-        },
-        {
             "key": "py_czspp",
             "name": "py_厂长",
             "type": 3,
@@ -2838,7 +2728,7 @@
             "quickSearch": 1,
             "filterable": 0,
             //"ext": "./dr_py/py/py_czspp.py"
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/ffebeb8af9e4e10fc31ae207f9b6e220377678f0/plugin/py_czspp.py"
+            "ext": "https://ghproxy.com/https://githubu.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_czspp.py"
         },
         {
         "key" : "py_cyys",
@@ -2852,18 +2742,6 @@
         "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyramid/plugin/py_cyys.py"
         },
         {
-            "key": "py_3qu",
-            "name": "py_快播",
-            "type": 3,
-            "api": "py_3quz",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/5bf46f0fe7d3b4a286aaa4ec59948edc9e2b771a/plugin/py_3qu.py"
-        },
-{"key" : "py_yixi","name" : "py_一席视频","type" : 3,"api" : "py_yixi","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/main/plugin/py_yixi.py"},
-{"key" : "py_cokemv","name" : "py_cokemv","type" : 3,"api" : "py_cokemv","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/0b8962cb55b94275eaff160fff920aa5f299b3a1/plugin/py_cokemv.py"},
-        {
             "key": "py_cctv",
             "name": "py_cctv",
             "type": 3,
@@ -2871,19 +2749,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/main/plugin/py_cctv.py"
+            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/pyrmain/plugin/py_cctv.py"
             //"ext": "./dr_py/py/py_cctv.py"
-        },
-        {
-            "key": "py_ali",
-            "name": "py_ali(Pyramid)",
-            "type": 3,
-            "api": "py_ali",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            //"ext": "./dr_py/py/py_ali.py"
-            "ext": "https://ghproxy.com/https://github.com/lm317379829/PyramidStore/raw/main/plugin/py_ali.py"
         },
         {
             "key": "push_agent",
