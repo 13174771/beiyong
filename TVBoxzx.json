@@ -10,18 +10,21 @@
 	    }],
     "sites": [
         {
-            "key": "py_bilibili3",
-            "name": "py_bilibili(dm)",
+            "key": "drpy_js_豆瓣",
+            "name": "聚合|豆瓣[DRPY]",
             "type": 3,
-            "api": "py_bilibili3",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilibili3.py"
-        },
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/%E8%B1%86%E7%93%A3.js"
+        },        {
+			"key": "js加密_仓库通用",
+			"name": "直播|⇔点播",
+			"type": 3,
+			"api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/直播转点播.js",
+			"ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/直播仓库.json"
+		},
         {
             "key": "py_bilibili",
-            "name": "py_bilibili(Pyramid)",
+            "name": "正版|bilibili(4k)",
             "type": 3,
             "api": "py_bilibili",
             "searchable": 1,
@@ -32,7 +35,7 @@
         },
         {
             "key": "py_bilimd",
-            "name": "py_bilimd(Pyramid)",
+            "name": "正版|哔哩影视",
             "type": 3,
             "api": "py_bilimd",
             "searchable": 1,
@@ -42,7 +45,7 @@
         },
         {
             "key": "py_bilivd",
-            "name": "py_bilivd(Pyramid)",
+            "name": "正版|哔哩综合",
             "type": 3,
             "api": "py_bilivd",
             "searchable": 1,
@@ -52,17 +55,20 @@
         },
         {
             "key": "drpy_js_哔哩影视",
-            "name": "正版|哔哩影视",
+            "name": "正版|哔哩哔哩",
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/哔哩影视.js"
         },
         {
-            "key": "drpy_js_豆瓣",
-            "name": "聚合|豆瓣[DRPY]",
+            "key": "py_bilibili3",
+            "name": "特殊|哔哩弹幕",
             "type": 3,
-            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/%E8%B1%86%E7%93%A3.js"
+            "api": "py_bilibili3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilibili3.py"
         },
         {
             "key": "drpy_js_360影视",
@@ -105,14 +111,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"
-        },
-        {
-			"key": "js加密_仓库通用",
-			"name": "📡直播转点播",
-			"type": 3,
-			"api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/直播转点播.js",
-			"ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/直播仓库.json"
-		},		
+        },		
         {
       "key": "AList",
       "name": "FM|AList",
@@ -128,11 +127,11 @@
     {      "key": "盤搜",      "name": "盤搜",      "type": 3,      "api": "csp_PanSou",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
     {      "key": "UP雲搜",      "name": "UP雲搜",      "type": 3,      "api": "csp_UpYun",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
     {      "key": "找資源",      "name": "找資源",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt$$$yingshi$$$abcd1234",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
-     {"key":"Gitcafe","name":"转码|纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_Zhaozy","name":"转码|资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"&&&yingshi&&&abcd1234"},
-        {"key":"csp_AliPS","name":"转码|盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0},
-        {"key":"csp_Yisou","name":"转码|易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0},
-        {"key":"csp_Upyunso","name":"转码|UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0},
+     {"key":"Gitcafe","name":"转码|纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://XYQTVBox/Tangs/token.txt"},
+        {"key":"csp_Zhaozy","name":"转码|资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt&&&yingshi&&&abcd1234"},
+        {"key":"csp_AliPS","name":"转码|盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt"},
+        {"key":"csp_Yisou","name":"转码|易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt"},
+        {"key":"csp_Upyunso","name":"转码|UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt"},
         
 {"key":"csp_YQKAPP","name":"一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top","jar":"./Yoursmile.jar"},
 {"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com","jar":"./Yoursmile.jar"},
