@@ -1,145 +1,162 @@
 {
  "drives":[
     {
-      "name": "杜比视界",
+      "name": "🍀儿童",
+      "server": "http://pan.smjc.cc/自用Open"
+    },
+    {
+      "name": "☘️杜比",
       "server": "https://dubi.tk"
     },
     {
-      "name": "小雅",
-      "server": "http://alist.xiaoya.pro"
+      "name": "🌸小雅",
+      "server": "http://alist.xiaoya.pro/测试（不限速）/"
     },
     {
-      "name": "看电视",
+      "name": "🌼电视",
       "server": "http://81.70.1.225:5244"
     },
     {
-      "name": "新番合集",
+      "name": "🌿新番",
       "server": "https://alist.toc.icu"
     },
     {
-      "name": "目瞪狗呆",
+      "name": "💐云星",
+      "server": "http://alist.itvbox.cc"
+    },
+    {
+      "name": "🌱狗呆",
       "server": "https://pan.mdgd.cc"
     },
     {
-      "name": "老苏",
+      "name": "🌲AR",
+      "server": "https://xn--ar-4g8e.tk"
+    },
+    {
+      "name": "🎋老苏",
       "server": "http://182.61.20.85:5244"
     },
     {
-      "name": "姿势",
+      "name": "🌴姿势",
       "server": "https://cloud.zsxwz.com"
     },
     {
-      "name": "xlib",
+      "name": "🍁xlib",
       "server": "https://xlib.in"
     },
     {
-      "name": "共享站",
+      "name": "💐共享",
       "server": "https://pan.oldming.top"
     },
     {
-      "name": "(何氏集团)",
-      "server": "http://xh.heshijituan.xyz"
-    },
-    {
-      "name": "小瑞",
-      "server": "https://ruipan.bestruirui.repl.co"
-    },
-    {
-      "name": "☁起",
+      "name": "☁云起",
       "server": "https://pan.yuqi.fun"
     },
     {
-      "name": "分享快乐",
+      "name": "🌲享乐",
       "server": "https://ofoo.ml"
     },
     {
-      "name": "AR盘",
-      "server": "http://alist.arhomenet.tk"
-    },
-    {
-      "name": "赵霸道",
+      "name": "🍂赵霸",
       "server": "http://ctcc.010421.xyz:5245"
     },
     {
-      "name": "浩爷",
-      "server": "https://disk.ihaoye.cc"
-    },
-    {
-      "name": "azad个人盘",
+      "name": "🪷azad",
       "server": "http://www.azad.asia:5244"
     },
     {
-      "name": "轻弹浅唱",
+      "name": "🥀轻弹",
       "server": "https://alist.youte.ml"
     },
     {
-      "name": "域宝",
+      "name": "🌵域宝",
       "server": "https://share.yubao.moe",
       "password": "12345678"
     },
     {
-      "name": "七米蓝",
+      "name": "🌺七米",
       "server": "https://al.chirmyram.com"
     },
     {
-      "name": "讯维云盘",
-      "server": "https://pan.xwbeta.com"
-    },
-    {
-      "name": "神族九帝",
+      "name": "🏵️神族",
       "server": "https://alist.shenzjd.com"
     },
     {
-      "name": "听闻",
-      "server": "https://wangpan.sangxuesheng.com"
-    },
-    {
-      "name": "云播放",
-      "server": "https://quanzi.laoxianghuijia.cn"
-    },
-    {
-      "name": "星梦",
+      "name": "🍀星梦",
       "server": "https://pan.bashroot.top"
     },
     {
-      "name": "谢周五",
+      "name": "🌿谢周五",
       "server": "https://pan.5nav.ml"
     },
     {
-      "name": "9t(车)",
-      "server": "https://drive.9t.ee"
+      "name": "🌴灰机☁(车)",
+      "server": "https://www.anscc.net/影视"
     },
     {
-      "name": "灰机☁(车)",
-      "server": "https://www.anscc.net"
+      "name": "🌹皓星",
+      "server": "https://pan.hxft.xyz/阿里云盘"
     },
     {
-      "name": "资源站(车)",
-      "server": "https://alist.ouo3.repl.co"
-    },
-    {
-      "name": "木偶(车)",
-      "server": "https://abnormalize.icu"
-    },
-    {
-      "name": "appek",
-      "server": "https://pan.appek.ml"
-    },
-    {
-      "name": "皓星繁天",
-      "server": "https://pan.hxft.xyz"
-    },
-    {
-      "name": "小谢影视盘",
+      "name": "🌾小谢",
       "server": "http://pan.xxc520.cn"
     },
     {
-      "name": "神秘小站",
+      "name": "💐神秘",
       "server": "https://yun.ltt.zone"
     },
     {
-      "name": "梓澪の妙妙屋",
-      "server": "https://zi0.cc"
+      "name": "🎋八面",
+      "server": "https://z7e8w0-5244.csb.app/pikpak分享"
+    },
+    {
+      "name": "🍃Lan同学",
+      "server": "https://l.lantongxue.repl.co"
+    },
+    {
+      "name": "🍁雨呢",
+      "server": "https://pan.clun.top"
+    },
+    {
+      "name": "🌼小城云",
+      "server": "https://yun.llh1347.com"
+    },
+    {
+      "name": "🌴资源",
+      "server": "https://imexcloud.top/资源"
+    },
+    {
+      "name": "🥀北瓜",
+      "server": "http://101.34.171.88:5244/aliyun1"
+    },
+    {
+      "name": "☘️42's",
+      "server": "https://alist.falling42.top"
+    },
+    {
+      "name": "🎋杰哥",
+      "server": "https://alist.itshenryz.com"
+    },
+    {
+      "name": "🌴disci",
+      "server": "https://alist.disciphelia.com"
+    },   
+    {
+      "name": "🔞秋雨",
+      "server": "https://share.qiuyu.org",
+      "password": "s8;K^h[j<b"
+    },
+    {
+      "name": "㊙️kk",
+      "server": "https://pan.kkboys.net"
+    },
+    {
+      "name": "🈲ljt-x",
+      "server": "https://ljt-x.net"
+    },
+    {
+      "name": "㊙️awis",
+      "server": "https://pan.awis.cc"
     }
       ]
 }
