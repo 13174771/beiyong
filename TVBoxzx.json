@@ -30,7 +30,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilibili.py",
+            "ext": "clan://XYQTVBox/dr_py/py/py_bilibili.py",
             "playerType": "2"
         },
         {
@@ -41,7 +41,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilimd.py"
+            "ext": "clan://XYQTVBox/dr_py/py/py_bilimd.py"
         },
         {
             "key": "py_bilivd",
@@ -51,14 +51,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilivd.py"
+            "ext": "clan://XYQTVBox/dr_py/py/py_bilivd.py"
         },
         {
             "key": "drpy_js_哔哩影视",
             "name": "正版|哔哩哔哩",
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/哔哩影视.js"
+            "ext": "clan://XYQTVBox/dr_js/js/哔哩影视.js"
         },
         {
             "key": "py_bilibili3",
@@ -68,7 +68,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/py_bilibili3.py"
+            "ext": "clan://XYQTVBox/dr_js/js/py_bilibili3.py"
         },
         {
             "key": "drpy_js_360影视",
@@ -122,49 +122,224 @@
       "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Alist.json",
       "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
     },
-    {      "key": "紙條",      "name": "紙條",      "type": 3,      "api": "csp_Paper",      "searchable": 1,      "filterable": 1,      "changeable": 0,      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
-    {      "key": "易搜",      "name": "易搜",      "type": 3,      "api": "csp_YiSo",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
-    {      "key": "盤搜",      "name": "盤搜",      "type": 3,      "api": "csp_PanSou",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
-    {      "key": "UP雲搜",      "name": "UP雲搜",      "type": 3,      "api": "csp_UpYun",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
-    {      "key": "找資源",      "name": "找資源",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt$$$yingshi$$$abcd1234",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
+    {      "key": "紙條",      "name": "紙條",      "type": 3,      "api": "csp_Paper",      "searchable": 1,      "filterable": 1,      "changeable": 0,      "ext": "clan://XYQTVBox/Tangs/token.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
+    {      "key": "易搜",      "name": "易搜",      "type": 3,      "api": "csp_YiSo",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "clan://XYQTVBox/Tangs/token.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
+    {      "key": "盤搜",      "name": "盤搜",      "type": 3,      "api": "csp_PanSou",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "clan://XYQTVBox/Tangs/token.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
+    {      "key": "UP雲搜",      "name": "UP雲搜",      "type": 3,      "api": "csp_UpYun",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "clan://XYQTVBox/Tangs/token.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
+    {      "key": "找資源",      "name": "找資源",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "clan://XYQTVBox/Tangs/token.txt$$$yingshi$$$abcd1234",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
      {"key":"Gitcafe","name":"转码|纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://XYQTVBox/Tangs/token.txt"},
-        {"key":"csp_Zhaozy","name":"转码|资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt&&&yingshi&&&abcd1234"},
-        {"key":"csp_AliPS","name":"转码|盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt"},
-        {"key":"csp_Yisou","name":"转码|易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt"},
-        {"key":"csp_Upyunso","name":"转码|UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/token.txt"},
-        
-{"key":"csp_YQKAPP","name":"一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top","jar":"./Yoursmile.jar"},
-{"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com","jar":"./Yoursmile.jar"},
-{"key":"小苹果","name":"苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","jar":"./Yoursmile.jar"},
-{"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"csp_fantuan","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com","jar":"./Yoursmile.jar"},
-{"key":"csp_555","name":"️555","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com","jar":"./Yoursmile.jar"},
-{"key":"BuLei","name":"布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://v.bulei.cc","jar":"./Yoursmile.jar"},
-{"key":"csp_AppMr","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"csp_panghu","name":"胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"./Yoursmile.jar"},
-{"key":"csp_Cokemv","name":"可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"Smdyy","name":"神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"csp_Auete","name":"奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"csp_Lib","name":"LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/","jar":"./Yoursmile.jar"},
-{"key":"csp_Voflix","name":"Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"csp_Nkdy","name":"耐看","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"csp_Lgyy","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip","jar":"./Yoursmile.jar"},
-{"key":"csp_Bd","name":"哔嘀","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json","jar":"./Yoursmile.jar"},
-{"key":"csp_Ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip","jar":"./Yoursmile.jar"},
-{"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.org","jar":"./Yoursmile.jar"},
-{"key":"csp_ZxzjH3","name":"在线H3","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com","jar":"./Yoursmile.jar"},
-{"key":"csp_Bttoo","name":"两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"csp_Dm84","name":"动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"csp_Anime1","name":"樱花①","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"Ying","name":"樱花②","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"csp_Yj1211","name":"JustLive","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile.jar"},
-{"key":"csp_Bili","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Bili.json","jar":"./Yoursmile.jar"},
-{"key":"相声小品","name":"相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./Blixs.json","jar":"./Yoursmile.jar"},
-{"key": "戏 曲" ,"name": "戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./Blixq.json","jar":"./Yoursmile.jar"},
+        {"key":"csp_Zhaozy","name":"转码|资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://XYQTVBox/Tangs/token.txt&&&yingshi&&&abcd1234"},
+        {"key":"csp_AliPS","name":"转码|盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://XYQTVBox/Tangs/token.txt"},
+        {"key":"csp_Yisou","name":"转码|易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://XYQTVBox/Tangs/token.txt"},
+        {"key":"csp_Upyunso","name":"转码|UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://XYQTVBox/Tangs/token.txt"},
+        {
+            "key": "世界杯",
+            "name": "一起看",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "8e3aefcba838d8dc5102ac786719d837",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "Hei19",
+            "name": "石榴",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "3bff500c8b1e06c052a1b0f1f7a62b45",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "独播库",
+            "name": "独播库",
+            "type": "4",
+            "api": "https://tang.run.goorm.app/duboku",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "Lgyy",
+            "name": "蓝光",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "b2e573ff040fcd54b50475660ee1a7d1",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "Smdyy",
+            "name": "神马",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "16705ee9f4764be8499806f52d4bf1e7",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "Ddys",
+            "name": "低端",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "1cc92323700909e7d46623bc85b958d6",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "AppTT",
+            "name": "图图",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "110c922de7d69804467fb83d3bb664b5",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "IKan",
+            "name": "爱看",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "Czsapp",
+            "name": "厂长",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "8ee655f702d0d21f3643504783babbc3",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "Kuaikan",
+            "name": "快看",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "459b1cb892e317546676a2c9dcec2bff",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "Kunyu77",
+            "name": "七七",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "Auete",
+            "name": "奥特",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "Bili",
+            "name": "哔哩",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "Cokemv",
+            "name": "可乐",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "b88de1329655cca1beba45aa9776de70",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "LiteApple",
+            "name": "苹果",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "6deed4548c44b18d268a5d828f04d86e",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "Lib",
+            "name": "Libvio",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "78d057e4d03e47cb62dce13d69b41d6f",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "Dy555",
+            "name": "555",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "f41992bd740145ed58cb212dc0876582",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "Xiaoh",
+            "name": "Xiaoh",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "0842c1d2a8534ec62fb3a3ed848851a7",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
+        {
+            "key": "Zxzj",
+            "name": "在线",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "23a412dda32885ae2bcb97b956cd7ad4",
+            "jar": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/tang.jar"
+        },
         {
             "key": "萌蛋影视",
             "name": "萌蛋影视(V1)",
@@ -216,14 +391,14 @@
             "ext": "https://jihulab.com/gouhao/Tvbox_zy/-/raw/master/XYQTVBox/XYQHiker/不可视境界线.json"
         },
         {
-            "key": "csp_XYQHiker_HG影视",
-            "name": "HG影视(XYQH)",
+            "key": "csp_XYQHiker_出差番",
+            "name": "出差番(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/gouhao/Tvbox_zy/-/raw/master/XYQTVBox/XYQHiker/HG影视.json"
+            "ext": "https://jihulab.com/gouhao/Tvbox_zy/-/raw/master/XYQTVBox/XYQHiker/出差番.json"
         },
         {
             "key": "csp_XYQHiker_咕咕番",
@@ -234,16 +409,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/gouhao/Tvbox_zy/-/raw/master/XYQTVBox/XYQHiker/咕咕番.json"
-        },
-        {
-            "key": "csp_XYQHiker_可达鸭",
-            "name": "可达鸭(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/gouhao/Tvbox_zy/-/raw/master/XYQTVBox/XYQHiker/可达鸭.json"
         },
         {
             "key": "csp_XYQHiker_橘子动漫",
@@ -854,13 +1019,6 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/好多影视.js"
-        },
-        {
-            "key": "drpy_js_蓝莓影视",
-            "name": "蓝莓影视[DRPY]",
-            "type": 3,
-            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/蓝莓影视.js"
         },
         {
             "key": "drpy_js_北川影视",
