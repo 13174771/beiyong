@@ -30,7 +30,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "clan://XYQTVBox/dr_py/py/py_bilibili.py",
+            "ext": "http://127.0.0.1:9978/XYQTVBox/dr_py/py/py_bilibili.py",
             "playerType": "2"
         },
         {
@@ -41,7 +41,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "clan://XYQTVBox/dr_py/py/py_bilimd.py"
+            "ext": "http://127.0.0.1:9978/XYQTVBox/dr_py/py/py_bilimd.py"
         },
         {
             "key": "py_bilivd",
@@ -51,14 +51,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "clan://XYQTVBox/dr_py/py/py_bilivd.py"
+            "ext": "http://127.0.0.1:9978/XYQTVBox/dr_py/py/py_bilivd.py"
         },
         {
             "key": "drpy_js_哔哩影视",
             "name": "正版|哔哩哔哩",
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
-            "ext": "clan://XYQTVBox/dr_js/js/哔哩影视.js"
+            "ext": "http://127.0.0.1:9978/XYQTVBox/dr_js/js/哔哩影视.js"
         },
         {
             "key": "py_bilibili3",
@@ -68,7 +68,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "clan://XYQTVBox/dr_js/js/py_bilibili3.py"
+            "ext": "http://127.0.0.1:9978/XYQTVBox/dr_js/js/py_bilibili3.py"
         },
         {
             "key": "drpy_js_360影视",
@@ -122,16 +122,16 @@
       "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Alist.json",
       "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
     },
-    {      "key": "紙條",      "name": "紙條",      "type": 3,      "api": "csp_Paper",      "searchable": 1,      "filterable": 1,      "changeable": 0,      "ext": "clan://XYQTVBox/alitoken.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
-    {      "key": "易搜",      "name": "易搜",      "type": 3,      "api": "csp_YiSo",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "clan://XYQTVBox/alitoken.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
-    {      "key": "盤搜",      "name": "盤搜",      "type": 3,      "api": "csp_PanSou",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "clan://XYQTVBox/alitoken.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
-    {      "key": "UP雲搜",      "name": "UP雲搜",      "type": 3,      "api": "csp_UpYun",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "clan://XYQTVBox/alitoken.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
-    {      "key": "找資源",      "name": "找資源",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "clan://XYQTVBox/alitoken.txt$$$yingshi$$$abcd1234",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
-     {"key":"Gitcafe","name":"转码|纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://XYQTVBox/alitoken.txt","playerType":"1"},
-        {"key":"csp_Zhaozy","name":"转码|资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://XYQTVBox/alitoken.txt&&&yingshi&&&abcd1234","playerType":"1"},
-        {"key":"csp_AliPS","name":"转码|盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://XYQTVBox/alitoken.txt","playerType":"1"},
-        {"key":"csp_Yisou","name":"转码|易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://XYQTVBox/alitoken.txt","playerType":"1"},
-        {"key":"csp_Upyunso","name":"转码|UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://XYQTVBox/alitoken.txt","playerType":"1"},
+    {      "key": "紙條",      "name": "紙條",      "type": 3,      "api": "csp_Paper",      "searchable": 1,      "filterable": 1,      "changeable": 0,      "ext": "http://127.0.0.1:9978/XYQTVBox/alitoken.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
+    {      "key": "易搜",      "name": "易搜",      "type": 3,      "api": "csp_YiSo",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "http://127.0.0.1:9978/XYQTVBox/alitoken.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
+    {      "key": "盤搜",      "name": "盤搜",      "type": 3,      "api": "csp_PanSou",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "http://127.0.0.1:9978/XYQTVBox/alitoken.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
+    {      "key": "UP雲搜",      "name": "UP雲搜",      "type": 3,      "api": "csp_UpYun",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "http://127.0.0.1:9978/XYQTVBox/alitoken.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },    
+    {      "key": "找資源",      "name": "找資源",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "filterable": 0,      "changeable": 0,      "ext": "http://127.0.0.1:9978/XYQTVBox/alitoken.txt$$$yingshi$$$abcd1234",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
+     {"key":"Gitcafe","name":"转码|纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/XYQTVBox/alitoken.txt","playerType":"1"},
+        {"key":"csp_Zhaozy","name":"转码|资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/XYQTVBox/alitoken.txt&&&yingshi&&&abcd1234","playerType":"1"},
+        {"key":"csp_AliPS","name":"转码|盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/XYQTVBox/alitoken.txt","playerType":"1"},
+        {"key":"csp_Yisou","name":"转码|易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/XYQTVBox/alitoken.txt","playerType":"1"},
+        {"key":"csp_Upyunso","name":"转码|UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/XYQTVBox/alitoken.txt","playerType":"1"},
         {
             "key": "世界杯",
             "name": "一起看",
