@@ -1,20 +1,12 @@
-{
+{"vodPic": "https://uploadstatic.mihoyo.com/puzzle/upload/puzzle/2023/02/21/6aa3511a9113b75285403af64c40b219_1356674285810635338.png?x-oss-process=image/format,webp/quality,Q_90",
  "drives":[
-    {
-      "name": "🍀儿童",
-      "server": "http://pan.smjc.cc/自用Open"
-    },
     {
       "name": "☘️杜比",
       "server": "https://dubi.tk"
     },
     {
       "name": "🌸小雅",
-      "server": "http://alist.xiaoya.pro/测试（不限速）/"
-    },
-    {
-      "name": "🌼电视",
-      "server": "http://81.70.1.225:5244"
+      "server": "http://alist.xiaoya.pro"
     },
     {
       "name": "🌿新番",
@@ -23,6 +15,10 @@
     {
       "name": "💐云星",
       "server": "http://alist.itvbox.cc"
+    },
+    {
+      "name": "🌸肥猫",
+      "server": "http://alist.xn--z7x900a.love:5244"
     },
     {
       "name": "🌱狗呆",
@@ -69,11 +65,6 @@
       "server": "https://alist.youte.ml"
     },
     {
-      "name": "🌵域宝",
-      "server": "https://share.yubao.moe",
-      "password": "12345678"
-    },
-    {
       "name": "🌺七米",
       "server": "https://al.chirmyram.com"
     },
@@ -88,10 +79,6 @@
     {
       "name": "🌿谢周五",
       "server": "https://pan.5nav.ml"
-    },
-    {
-      "name": "🌴灰机☁(车)",
-      "server": "https://www.anscc.net/影视"
     },
     {
       "name": "🌹皓星",
@@ -138,25 +125,24 @@
       "server": "https://alist.itshenryz.com"
     },
     {
-      "name": "🌴disci",
-      "server": "https://alist.disciphelia.com"
-    },   
-    {
-      "name": "🔞秋雨",
-      "server": "https://share.qiuyu.org",
-      "password": "s8;K^h[j<b"
+      "name": "🍃嘻哈",
+      "server": "https://share.acreson.cn"
     },
     {
-      "name": "㊙️kk",
-      "server": "https://pan.kkboys.net"
+      "name": "☘️小陈",
+      "server": "https://ypan.ml"
     },
     {
-      "name": "🈲ljt-x",
-      "server": "https://ljt-x.net"
+      "name": "🍀3T",
+      "server": "http://101.37.163.90"
     },
     {
-      "name": "㊙️awis",
-      "server": "https://pan.awis.cc"
+      "name": "🌾电影",
+      "server": "https://alist.xkzs.icu"
+    },
+    {
+      "name": "🌼电视",
+      "server": "http://81.70.1.225:5244"
     }
       ]
 }
