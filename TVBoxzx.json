@@ -84,58 +84,35 @@
         },
         {
             "key": "drpy_js_斗鱼直播",
-            "name": "斗鱼直播[DRPY]",
+            "name": "直播|斗鱼直播[DRPY]",
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py-1/raw/main/js/斗鱼直播.js"
         },
         {
             "key": "drpy_js_虎牙直播",
-            "name": "虎牙直播[DRPY]",
+            "name": "直播虎牙直播[DRPY]",
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py-1/raw/main/js/虎牙直播.js"
         },
         {
-            "key": "drpy_js_JustLive",
-            "name": "JustLive[DRPY]",
-            "type": 3,
-            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py-1/raw/main/js/JustLive.js"
-        },
-        {
             "key": "drpy_js_哔哩直播",
-            "name": "哔哩直播[DRPY]",
+            "name": "直播哔哩直播[DRPY]",
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py-1/raw/main/js/哔哩直播.js"
         },
         {
-            "key": "drpy_js_开眼视频",
-            "name": "开眼视频[DRPY]",
+            "key": "drpy_js_JustLive",
+            "name": "直播JustLive[DRPY]",
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py-1/raw/main/js/开眼视频.js"
+            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py-1/raw/main/js/JustLive.js"
         },
-        {
-            "key": "drpy_js_新片场",
-            "name": "新片场[DRPY]",
-            "type": 3,
-            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py-1/raw/main/js/新片场.js"
-        },
-		{
-			"key": "1080资源库",
-			"name": "影视|1080库",
-			"type": 1,
-			"api": "https://api.1080zyku.com/inc/api_mac10.php",
-			//"playUrl": "https://vip.zykbf.com/?url=",
-			"searchable": 1,
-			"quickSearch": 1
-		},
 		{
 			"key": "量子影视",
-			"name": "影视|量子影视",
+			"name": "影视|量子影视[CMS]",
 			"type": 1,
 			"api": "http://cj.lziapi.com/api.php/provide/vod/",
 			//"playUrl": "https://lziplayer.com/?url=",
@@ -145,7 +122,7 @@
 		},
 		{
 			"key": "非凡影视",
-			"name": "影视|非凡影视",
+			"name": "影视|非凡影视[CMS]",
 			"type": 1,
 			"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
 			//"playUrl": "https://ffzyplayer.com/?url=",
@@ -154,8 +131,17 @@
 			"playerType": 2
 		},
 		{
+			"key": "1080资源库",
+			"name": "影视|1080库[CMS]",
+			"type": 1,
+			"api": "https://api.1080zyku.com/inc/api_mac10.php",
+			//"playUrl": "https://vip.zykbf.com/?url=",
+			"searchable": 1,
+			"quickSearch": 1
+		},
+		{
 			"key": "红牛影视",
-			"name": "影视|红牛影视",
+			"name": "影视|红牛影视[CMS]",
 			"type": 1,
 			"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
 			"searchable": 1,
@@ -2218,7 +2204,7 @@
         },
         {
             "key": "drpy_js_相声随身听",
-            "name": "相声随身听[DRPY]",
+            "name": "听书|相声随身听[DRPY]",
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py-1/raw/main/js/相声随身听.js",
@@ -2226,7 +2212,7 @@
         },
         {
             "key": "drpy_js_评书随身听",
-            "name": "评书随身听[DRPY]",
+            "name": "听书|评书随身听[DRPY]",
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py-1/raw/main/js/评书随身听.js",
@@ -2238,6 +2224,20 @@
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py-1/raw/main/js/短视频.js"
+        },
+        {
+            "key": "drpy_js_开眼视频",
+            "name": "娱乐|开眼视频[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py-1/raw/main/js/开眼视频.js"
+        },
+        {
+            "key": "drpy_js_新片场",
+            "name": "娱乐|新片场[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://github.com/bobocg/dr_py-1/raw/main/js/新片场.js"
         },
         {
             "key": "drpy_js_音乐演唱",
