@@ -1,7 +1,7 @@
 {
     "wallpaper": "https://www.dmoe.cc/random.php",
     //"spider": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/custom_spider.jar",
-    //"spider": "http://127.0.0.1:9978/file/XYQTVBox/jar/xyq.jar",
+    "spider": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
     "lives": [{
 		    "name": "live",
 		    "type": 0,
@@ -10,20 +10,20 @@
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
     "sites": [
-        {
-			"key": "js加密_仓库通用",
-			"name": "直播|⇔点播",
-			"type": 3,
-			"api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/直播转点播.js",
-			"ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/直播仓库.json"
-		},
 		{
             "key": "drpy_js_豆瓣",
             "name": "聚合|豆瓣[DRPY]",
             "type": 3,
             "api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/drpy2.min.js",
             "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/%E8%B1%86%E7%93%A3.js"
-        },        
+        },  
+        {
+			"key": "js加密_仓库通用",
+			"name": "直播|⇔点播",
+			"type": 3,
+			"api": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/直播转点播.js",
+			"ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/直播仓库.json"
+		},      
         {
             "key": "py_bilibili",
             "name": "正版|bilibili(4k)",
