@@ -1,7 +1,7 @@
 {
     "wallpaper": "https://www.dmoe.cc/random.php",
     //"spider": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/custom_spider.jar",
-    "spider": "clan://localhost/jar/xyq.jar",
+    "spider": "http://127.0.0.1:9978/file/XYQTVBox/jar/xyq.jar",
     "lives": [{
 		    "name": "live",
 		    "type": 0,
