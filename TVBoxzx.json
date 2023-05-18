@@ -1,7 +1,7 @@
 {
     "wallpaper": "https://www.dmoe.cc/random.php",
     //"spider": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/custom_spider.jar",
-    "spider": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
+    "spider": "",
     "lives": [{
 		    "name": "live",
 		    "type": 0,
